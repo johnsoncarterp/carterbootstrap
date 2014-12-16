@@ -1,0 +1,37 @@
+body {
+    background-color: purple;
+}
+
+div {
+    border-style:solid;
+    border-width:5px;
+}
+
+.container {
+    border-color: yellow;
+}
+
+.row {
+    border-color: yellow;
+}
+
+h1 {
+    text-align: center;
+    color: yellow;
+}
+
+h2 {
+    font-size: 20px;
+    color: yellow;
+}
+
+img {
+   
+    width: 100px;
+    height: 100px;
+}
+
+p {
+    text-align: left;
+}
+
